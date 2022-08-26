@@ -1,0 +1,5 @@
+console.log("nome")
+console.log("e-mail")
+console.log("profissão")
+console.log("idade")
+console.log("lugar")
